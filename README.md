@@ -23,13 +23,6 @@ giving me a full picture of how great web apps are built.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=NolenVida&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NolenVida&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NolenVida&show_icons=true&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Get in Touch
 
